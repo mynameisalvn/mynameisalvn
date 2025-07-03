@@ -1,20 +1,16 @@
 <!-- Banner Section -->
-<p align="center">
-  <img src="https://your-image-host/banner.png" alt="banner" width="100%" />
-</p>
 
-<h1 align="center">Website Developer</h1>
-<p align="center">Hi There, I'm <strong>Alpin</strong> 👋</p>
+
+<h1 align="center">Hi There, I'm <strong>Alpin</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Laravel-4EA94B?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-4EA94B?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
 <p align="center">
