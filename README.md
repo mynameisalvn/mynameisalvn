@@ -14,7 +14,6 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://yourwebsite.com">its-alpin.vercel.app</a> &nbsp;|&nbsp;
   📧 <a href="mailto:youremail@example.com">alpindevs@gmail.com</a>
 </p>
 
