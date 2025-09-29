@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 All of my projects are available at [its-alpin.vercel.app](its-alpin.vercel.app)
+- 👨‍💻 All of my projects are available at https://its-alpin.vercel.app/
 
 - 📫 How to reach me **alpindevs@gmail.com**
 
