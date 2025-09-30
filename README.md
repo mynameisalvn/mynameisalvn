@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alpin</h1>
 <h3 align="center">A passionate frontend developer and backend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Next.js, TypeScript, Animation**
 
 - 👨‍💻 All of my projects are available at https://its-alpin.vercel.app/
 
